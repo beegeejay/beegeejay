@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @beegeejay
+- 🌱 I’m currently learning HTML and C++
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Gorillas strength has never been measured by a human, this is because gorillas are stronger than any human by like, a lot. (Monkey noises of incoherence)
